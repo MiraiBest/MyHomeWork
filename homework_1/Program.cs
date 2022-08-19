@@ -101,4 +101,6 @@ while (current < number)
     current += 2;
 } 
 
+Console.WriteLine();
+
 */
